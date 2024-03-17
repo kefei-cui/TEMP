@@ -1,6 +1,6 @@
 import math
 
-N = 9
+N = 10
 
 
 def comb(n, k):
